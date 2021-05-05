@@ -1,0 +1,189 @@
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\obj\Debug\Salvador_Hernandez.Presentacion.csprojAssemblyReference.cache
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\obj\Debug\Salvador_Hernandez.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\Salvador_Hernandez.Presentacion.dll.config
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\Salvador_Hernandez.Presentacion.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\Salvador_Hernandez.Presentacion.pdb
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\csc.exe
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\csc.exe.config
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\csc.rsp
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\csi.exe
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\csi.exe.config
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\csi.rsp
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.AppContext.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Console.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.IO.Compression.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Net.Http.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.ValueTuple.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\vbc.exe
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\vbc.exe.config
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\vbc.rsp
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\Salvador_Hernandez.AccesoDatos.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\Salvador_Hernandez.Entity.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\Salvador_Hernandez.AccesoDatos.pdb
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\Salvador_Hernandez.Entity.pdb
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\obj\Debug\Salvador_Hernandez.Presentacion.csproj.CopyComplete
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\obj\Debug\Salvador_Hernandez.Presentacion.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Presentacion\obj\Debug\Salvador_Hernandez.Presentacion.pdb
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\Salvador_Hernandez.Presentacion.dll.config
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\Salvador_Hernandez.Presentacion.dll
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\Salvador_Hernandez.Presentacion.pdb
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\csc.exe
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\csc.exe.config
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\csc.rsp
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\csi.exe
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\csi.exe.config
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\csi.rsp
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.AppContext.dll
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Console.dll
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.IO.Compression.dll
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Net.Http.dll
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.ValueTuple.dll
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\vbc.exe
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\vbc.exe.config
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\vbc.rsp
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\Salvador_Hernandez.AccesoDatos.dll
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\Salvador_Hernandez.Entity.dll
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\Salvador_Hernandez.AccesoDatos.pdb
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\Salvador_Hernandez.Entity.pdb
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\obj\Debug\Salvador_Hernandez.Presentacion.csprojAssemblyReference.cache
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\obj\Debug\Salvador_Hernandez.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\obj\Debug\Salvador_Hernandez.Presentacion.csproj.CopyComplete
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\obj\Debug\Salvador_Hernandez.Presentacion.dll
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Presentacion\obj\Debug\Salvador_Hernandez.Presentacion.pdb
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\obj\Debug\Salvador_Hernandez.Presentacion.csprojAssemblyReference.cache
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\obj\Debug\Salvador_Hernandez.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\Salvador_Hernandez.Presentacion.dll.config
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\Salvador_Hernandez.Presentacion.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\Salvador_Hernandez.Presentacion.pdb
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\csc.exe
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\csc.exe.config
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\csc.rsp
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\csi.exe
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\csi.exe.config
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\csi.rsp
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.AppContext.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Console.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.IO.Compression.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Net.Http.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.ValueTuple.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\vbc.exe
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\vbc.exe.config
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\vbc.rsp
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\Salvador_Hernandez.AccesoDatos.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\Salvador_Hernandez.Entity.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\Salvador_Hernandez.AccesoDatos.pdb
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\Salvador_Hernandez.Entity.pdb
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\obj\Debug\Salvador_Hernandez.Presentacion.csproj.CopyComplete
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\obj\Debug\Salvador_Hernandez.Presentacion.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Presentacion\obj\Debug\Salvador_Hernandez.Presentacion.pdb

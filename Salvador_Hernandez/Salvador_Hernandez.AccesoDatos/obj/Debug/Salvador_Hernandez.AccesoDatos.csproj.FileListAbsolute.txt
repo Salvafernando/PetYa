@@ -1,0 +1,27 @@
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.AccesoDatos\obj\Debug\Salvador_Hernandez.AccesoDatos.csprojAssemblyReference.cache
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.AccesoDatos\obj\Debug\Salvador_Hernandez.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.AccesoDatos\bin\Debug\Salvador_Hernandez.AccesoDatos.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.AccesoDatos\bin\Debug\Salvador_Hernandez.AccesoDatos.pdb
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.AccesoDatos\bin\Debug\Salvador_Hernandez.Entity.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.AccesoDatos\bin\Debug\Salvador_Hernandez.Entity.pdb
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.AccesoDatos\obj\Debug\Salvador_Hernandez.AccesoDatos.csproj.CopyComplete
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.AccesoDatos\obj\Debug\Salvador_Hernandez.AccesoDatos.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.AccesoDatos\obj\Debug\Salvador_Hernandez.AccesoDatos.pdb
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.AccesoDatos\bin\Debug\Salvador_Hernandez.AccesoDatos.dll
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.AccesoDatos\bin\Debug\Salvador_Hernandez.AccesoDatos.pdb
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.AccesoDatos\bin\Debug\Salvador_Hernandez.Entity.dll
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.AccesoDatos\bin\Debug\Salvador_Hernandez.Entity.pdb
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.AccesoDatos\obj\Debug\Salvador_Hernandez.AccesoDatos.csprojAssemblyReference.cache
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.AccesoDatos\obj\Debug\Salvador_Hernandez.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.AccesoDatos\obj\Debug\Salvador_Hernandez.AccesoDatos.csproj.CopyComplete
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.AccesoDatos\obj\Debug\Salvador_Hernandez.AccesoDatos.dll
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.AccesoDatos\obj\Debug\Salvador_Hernandez.AccesoDatos.pdb
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.AccesoDatos\obj\Debug\Salvador_Hernandez.AccesoDatos.csprojAssemblyReference.cache
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.AccesoDatos\obj\Debug\Salvador_Hernandez.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.AccesoDatos\bin\Debug\Salvador_Hernandez.AccesoDatos.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.AccesoDatos\bin\Debug\Salvador_Hernandez.AccesoDatos.pdb
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.AccesoDatos\bin\Debug\Salvador_Hernandez.Entity.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.AccesoDatos\bin\Debug\Salvador_Hernandez.Entity.pdb
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.AccesoDatos\obj\Debug\Salvador_Hernandez.AccesoDatos.csproj.CopyComplete
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.AccesoDatos\obj\Debug\Salvador_Hernandez.AccesoDatos.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.AccesoDatos\obj\Debug\Salvador_Hernandez.AccesoDatos.pdb

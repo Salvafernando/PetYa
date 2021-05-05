@@ -1,0 +1,18 @@
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Entity\bin\Debug\Salvador_Hernandez.Entity.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Entity\bin\Debug\Salvador_Hernandez.Entity.pdb
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Entity\obj\Debug\Salvador_Hernandez.Entity.csprojAssemblyReference.cache
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Entity\obj\Debug\Salvador_Hernandez.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Entity\obj\Debug\Salvador_Hernandez.Entity.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez\Salvador_Hernandez.Entity\obj\Debug\Salvador_Hernandez.Entity.pdb
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Entity\bin\Debug\Salvador_Hernandez.Entity.dll
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Entity\bin\Debug\Salvador_Hernandez.Entity.pdb
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Entity\obj\Debug\Salvador_Hernandez.Entity.csprojAssemblyReference.cache
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Entity\obj\Debug\Salvador_Hernandez.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Entity\obj\Debug\Salvador_Hernandez.Entity.dll
+C:\Users\Zayd226\Desktop\Cosas\Proyecto Pet Ya\Salvador_Hernandez\Salvador_Hernandez.Entity\obj\Debug\Salvador_Hernandez.Entity.pdb
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Entity\bin\Debug\Salvador_Hernandez.Entity.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Entity\bin\Debug\Salvador_Hernandez.Entity.pdb
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Entity\obj\Debug\Salvador_Hernandez.Entity.csprojAssemblyReference.cache
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Entity\obj\Debug\Salvador_Hernandez.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Entity\obj\Debug\Salvador_Hernandez.Entity.dll
+C:\Users\Salvador\Desktop\Salvador_Hernandez\Salvador_Hernandez.Entity\obj\Debug\Salvador_Hernandez.Entity.pdb

@@ -1,0 +1,459 @@
+﻿<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{62E6A445-70CE-41D4-8450-31693AFCAC98}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Salvador_Hernandez.Presentacion</RootNamespace>
+    <AssemblyName>Salvador_Hernandez.Presentacion</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort>44317</IISExpressSSLPort>
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Auditoria.aspx" />
+    <Content Include="AuditoriaFichas.aspx" />
+    <Content Include="BusquedaInfoVet.aspx" />
+    <Content Include="CRUDExamen.aspx" />
+    <Content Include="CRUDFarmaco.aspx" />
+    <Content Include="CRUDGps.aspx" />
+    <Content Include="CRUDInsumo.aspx" />
+    <Content Include="CRUDPatologia.aspx" />
+    <Content Include="CRUDVacuna.aspx" />
+    <Content Include="css\bootstrap.css" />
+    <Content Include="css\etalage.css" />
+    <Content Include="css\formoid-solid-blue.css" />
+    <Content Include="css\formoid-solid-blue.js" />
+    <Content Include="css\fwslider.css" />
+    <Content Include="css\jquery.fancybox.css" />
+    <Content Include="css\jquery.min.js" />
+    <Content Include="css\magnific-popup.css" />
+    <Content Include="css\style.css" />
+    <Content Include="FichaMascota.aspx" />
+    <Content Include="FichaMascotaVet.aspx" />
+    <Content Include="images\arrow.png" />
+    <Content Include="images\arrows.png" />
+    <Content Include="images\as.png" />
+    <Content Include="images\close.png" />
+    <Content Include="images\close_edit.png" />
+    <Content Include="images\currency.png" />
+    <Content Include="images\edit.png" />
+    <Content Include="images\fancybox_sprite.png" />
+    <Content Include="images\Gatos.jpg" />
+    <Content Include="images\img-sprite.png" />
+    <Content Include="images\JuegaYa.jpeg" />
+    <Content Include="images\LogoSanCamilo.png" />
+    <Content Include="images\marker.png" />
+    <Content Include="images\nav.png" />
+    <Content Include="images\Perro.jpg" />
+    <Content Include="images\Perro2.jpg" />
+    <Content Include="images\Perros.jpg" />
+    <Content Include="images\search.png" />
+    <Content Include="images\srl.png" />
+    <Content Include="images\tick1.png" />
+    <Content Include="images\wish.png" />
+    <Content Include="images\zoom.png" />
+    <Content Include="Inicio.aspx" />
+    <Content Include="js\classie.js" />
+    <Content Include="js\fwslider.js" />
+    <Content Include="js\jquery-ui.min.js" />
+    <Content Include="js\jquery.etalage.min.js" />
+    <Content Include="js\jquery.fancybox.js" />
+    <Content Include="js\jquery.flexisel.js" />
+    <Content Include="js\jquery.magnific-popup.js" />
+    <Content Include="js\jquery.min.js" />
+    <Content Include="js\responsive-nav.js" />
+    <Content Include="js\uisearch.js" />
+    <Content Include="ListaExamen.aspx" />
+    <Content Include="ListaFarmaco.aspx" />
+    <Content Include="ListaInsumo.aspx" />
+    <Content Include="ListaPatologia.aspx" />
+    <Content Include="ListarMascota.aspx" />
+    <Content Include="ListarTrabajadores.aspx" />
+    <Content Include="ListarUsuarios.aspx" />
+    <Content Include="ListaVacuna.aspx" />
+    <Content Include="Menu_Reporteria.aspx" />
+    <Content Include="RecuperarContraseña.aspx" />
+    <Content Include="CRUDCliente.aspx" />
+    <Content Include="PaginaEnConstruccion1.aspx" />
+    <Content Include="PaginaEnConstruccion2.aspx" />
+    <Content Include="PaginaEnConstruccion3.aspx" />
+    <Content Include="VistaAdmin.aspx" />
+    <Content Include="VistaVeterinario.aspx" />
+    <Content Include="VistaCliente.aspx" />
+    <Content Include="CRUDMascota.aspx" />
+    <Content Include="CRUDUsuarios.aspx" />
+    <Content Include="ListaPacienteForm.aspx" />
+    <Content Include="ListaUsuariosForm.aspx" />
+    <Content Include="Login.aspx" />
+    <Content Include="Web.config" />
+    <Content Include="AtencionMascota.aspx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Auditoria.aspx.cs">
+      <DependentUpon>Auditoria.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Auditoria.aspx.designer.cs">
+      <DependentUpon>Auditoria.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AuditoriaFichas.aspx.cs">
+      <DependentUpon>AuditoriaFichas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AuditoriaFichas.aspx.designer.cs">
+      <DependentUpon>AuditoriaFichas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BusquedaInfoVet.aspx.cs">
+      <DependentUpon>BusquedaInfoVet.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BusquedaInfoVet.aspx.designer.cs">
+      <DependentUpon>BusquedaInfoVet.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CRUDExamen.aspx.cs">
+      <DependentUpon>CRUDExamen.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CRUDExamen.aspx.designer.cs">
+      <DependentUpon>CRUDExamen.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CRUDFarmaco.aspx.cs">
+      <DependentUpon>CRUDFarmaco.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CRUDFarmaco.aspx.designer.cs">
+      <DependentUpon>CRUDFarmaco.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CRUDGps.aspx.cs">
+      <DependentUpon>CRUDGps.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CRUDGps.aspx.designer.cs">
+      <DependentUpon>CRUDGps.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CRUDInsumo.aspx.cs">
+      <DependentUpon>CRUDInsumo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CRUDInsumo.aspx.designer.cs">
+      <DependentUpon>CRUDInsumo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CRUDPatologia.aspx.cs">
+      <DependentUpon>CRUDPatologia.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CRUDPatologia.aspx.designer.cs">
+      <DependentUpon>CRUDPatologia.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CRUDVacuna.aspx.cs">
+      <DependentUpon>CRUDVacuna.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CRUDVacuna.aspx.designer.cs">
+      <DependentUpon>CRUDVacuna.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FichaMascota.aspx.cs">
+      <DependentUpon>FichaMascota.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FichaMascota.aspx.designer.cs">
+      <DependentUpon>FichaMascota.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FichaMascotaVet.aspx.cs">
+      <DependentUpon>FichaMascotaVet.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FichaMascotaVet.aspx.designer.cs">
+      <DependentUpon>FichaMascotaVet.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Inicio.aspx.cs">
+      <DependentUpon>Inicio.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Inicio.aspx.designer.cs">
+      <DependentUpon>Inicio.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ListaExamen.aspx.cs">
+      <DependentUpon>ListaExamen.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ListaExamen.aspx.designer.cs">
+      <DependentUpon>ListaExamen.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ListaFarmaco.aspx.cs">
+      <DependentUpon>ListaFarmaco.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ListaFarmaco.aspx.designer.cs">
+      <DependentUpon>ListaFarmaco.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ListaInsumo.aspx.cs">
+      <DependentUpon>ListaInsumo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ListaInsumo.aspx.designer.cs">
+      <DependentUpon>ListaInsumo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ListaPatologia.aspx.cs">
+      <DependentUpon>ListaPatologia.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ListaPatologia.aspx.designer.cs">
+      <DependentUpon>ListaPatologia.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ListarMascota.aspx.cs">
+      <DependentUpon>ListarMascota.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ListarMascota.aspx.designer.cs">
+      <DependentUpon>ListarMascota.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ListarTrabajadores.aspx.cs">
+      <DependentUpon>ListarTrabajadores.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ListarTrabajadores.aspx.designer.cs">
+      <DependentUpon>ListarTrabajadores.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ListarUsuarios.aspx.cs">
+      <DependentUpon>ListarUsuarios.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ListarUsuarios.aspx.designer.cs">
+      <DependentUpon>ListarUsuarios.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ListaVacuna.aspx.cs">
+      <DependentUpon>ListaVacuna.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ListaVacuna.aspx.designer.cs">
+      <DependentUpon>ListaVacuna.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Menu_Reporteria.aspx.cs">
+      <DependentUpon>Menu_Reporteria.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Menu_Reporteria.aspx.designer.cs">
+      <DependentUpon>Menu_Reporteria.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RecuperarContraseña.aspx.cs">
+      <DependentUpon>RecuperarContraseña.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RecuperarContraseña.aspx.designer.cs">
+      <DependentUpon>RecuperarContraseña.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CRUDCliente.aspx.cs">
+      <DependentUpon>CRUDCliente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CRUDCliente.aspx.designer.cs">
+      <DependentUpon>CRUDCliente.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PaginaEnConstruccion1.aspx.cs">
+      <DependentUpon>PaginaEnConstruccion1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PaginaEnConstruccion1.aspx.designer.cs">
+      <DependentUpon>PaginaEnConstruccion1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PaginaEnConstruccion2.aspx.cs">
+      <DependentUpon>PaginaEnConstruccion2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PaginaEnConstruccion2.aspx.designer.cs">
+      <DependentUpon>PaginaEnConstruccion2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PaginaEnConstruccion3.aspx.cs">
+      <DependentUpon>PaginaEnConstruccion3.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PaginaEnConstruccion3.aspx.designer.cs">
+      <DependentUpon>PaginaEnConstruccion3.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VistaAdmin.aspx.cs">
+      <DependentUpon>VistaAdmin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VistaAdmin.aspx.designer.cs">
+      <DependentUpon>VistaAdmin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VistaVeterinario.aspx.cs">
+      <DependentUpon>VistaVeterinario.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VistaVeterinario.aspx.designer.cs">
+      <DependentUpon>VistaVeterinario.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VistaCliente.aspx.cs">
+      <DependentUpon>VistaCliente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VistaCliente.aspx.designer.cs">
+      <DependentUpon>VistaCliente.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CRUDMascota.aspx.cs">
+      <DependentUpon>CRUDMascota.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CRUDMascota.aspx.designer.cs">
+      <DependentUpon>CRUDMascota.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CRUDUsuarios.aspx.cs">
+      <DependentUpon>CRUDUsuarios.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CRUDUsuarios.aspx.designer.cs">
+      <DependentUpon>CRUDUsuarios.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ListaPacienteForm.aspx.cs">
+      <DependentUpon>ListaPacienteForm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ListaPacienteForm.aspx.designer.cs">
+      <DependentUpon>ListaPacienteForm.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ListaUsuariosForm.aspx.cs">
+      <DependentUpon>ListaUsuariosForm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ListaUsuariosForm.aspx.designer.cs">
+      <DependentUpon>ListaUsuariosForm.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="AtencionMascota.aspx.cs">
+      <DependentUpon>AtencionMascota.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AtencionMascota.aspx.designer.cs">
+      <DependentUpon>AtencionMascota.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="images\arrows.psd" />
+    <Content Include="images\close.psd" />
+    <Content Include="images\img-sprite.psd" />
+    <Content Include="images\logo.psd" />
+    <Content Include="css\icons.woff" />
+    <None Include="packages.config" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Salvador_Hernandez.AccesoDatos\Salvador_Hernandez.AccesoDatos.csproj">
+      <Project>{005d4e1c-75bc-4c46-9e1f-b06ecd22f6ef}</Project>
+      <Name>Salvador_Hernandez.AccesoDatos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Salvador_Hernandez.Entity\Salvador_Hernandez.Entity.csproj">
+      <Project>{f0d01145-912f-4296-81a6-555f5542006b}</Project>
+      <Name>Salvador_Hernandez.Entity</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>54232</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>https://localhost:44317/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Este proyecto hace referencia a los paquetes NuGet que faltan en este equipo. Use la restauración de paquetes NuGet para descargarlos. Para obtener más información, consulte http://go.microsoft.com/fwlink/?LinkID=322105. El archivo que falta es {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
