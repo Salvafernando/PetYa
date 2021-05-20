@@ -129,6 +129,8 @@
     <Content Include="ListarUsuarios.aspx" />
     <Content Include="ListaVacuna.aspx" />
     <Content Include="Menu_Reporteria.aspx" />
+    <Content Include="PagoExitoso.aspx" />
+    <Content Include="PruebaPayPal.aspx" />
     <Content Include="RecuperarContraseña.aspx" />
     <Content Include="CRUDCliente.aspx" />
     <Content Include="PaginaEnConstruccion1.aspx" />
@@ -167,6 +169,7 @@
     <Compile Include="BusquedaInfoVet.aspx.designer.cs">
       <DependentUpon>BusquedaInfoVet.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Class1.cs" />
     <Compile Include="CRUDExamen.aspx.cs">
       <DependentUpon>CRUDExamen.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -292,6 +295,20 @@
     </Compile>
     <Compile Include="Menu_Reporteria.aspx.designer.cs">
       <DependentUpon>Menu_Reporteria.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PagoExitoso.aspx.cs">
+      <DependentUpon>PagoExitoso.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PagoExitoso.aspx.designer.cs">
+      <DependentUpon>PagoExitoso.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PruebaPayPal.aspx.cs">
+      <DependentUpon>PruebaPayPal.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PruebaPayPal.aspx.designer.cs">
+      <DependentUpon>PruebaPayPal.aspx</DependentUpon>
     </Compile>
     <Compile Include="RecuperarContraseña.aspx.cs">
       <DependentUpon>RecuperarContraseña.aspx</DependentUpon>

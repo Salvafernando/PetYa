@@ -28,6 +28,8 @@ namespace Salvador_Hernandez.Presentacion
 
         {
 
+
+            Listar();
             Usuario user = (Usuario)Session["Usuario"];
 
             if (!user.TipoUsuario.Equals("1"))
@@ -38,7 +40,7 @@ namespace Salvador_Hernandez.Presentacion
 
             }
 
-            Listar();
+           
 
 
 
