@@ -6,7 +6,7 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using System.Data;
 using System.Data.SqlClient;
-
+using Salvador_Hernandez.AccesoDatos;
 
 namespace Salvador_Hernandez.Presentacion
 {
@@ -19,7 +19,10 @@ namespace Salvador_Hernandez.Presentacion
         string order_no;
         protected void Page_Load(object sender, EventArgs e)
         {
-           
+            Usuario user = (Usuario)Session["Usuario"];
+            
+        
+            txtRut.Text = user.Rut;
         } 
 
         protected void Button1_Click(object sender, EventArgs e)
@@ -61,6 +64,90 @@ namespace Salvador_Hernandez.Presentacion
             }
         }
 
+        protected void ddlVeterinario_SelectedIndexChanged(object sender, EventArgs e)
+        {
+           
+         
+
+            if (ddlVeterinario.SelectedValue != null)
+            {
+              
+                ListarHorario();
+            }
+            else 
+            {
+          
+            }
+           
+        }
+        public void Listar()
+
+        {
+
+            DataTable dt = VeterinarioDAO.ObtenerDatosVet();
+
+            ddlVeterinario.DataSource = dt;
+            ddlVeterinario.DataTextField = "NombreVet";
+            ddlVeterinario.DataValueField = "NombreVet";
+            ddlVeterinario.DataBind();
+
+            ddlVeterinario.Items.Insert(0, new ListItem("--Seleccionar--", "0"));
+
+
+
+        }
+        public void ListarHorario()
+
+        {
+         
+            
+            DataTable dt = VeterinarioDAO.BuscarHorario(ddlVeterinario.SelectedItem.Text.ToString());
+         
+            ddlHorario.DataSource = dt;
+            ddlHorario.DataTextField = "horario";
+            ddlHorario.DataValueField = "horario";
+            ddlHorario.DataBind();
+
+            ddlHorario.Items.Insert(0, new ListItem("--Seleccionar--", "0"));
+
+
+
+        }
+        public void ListarHora()
+
+        {
+
+
+            DataTable dt = VeterinarioDAO.BuscarHora(ddlVeterinario.SelectedItem.Text.ToString(),ddlHorario.SelectedItem.Text.ToString());
+            
+            ddlHora.DataSource = dt;
+            ddlHora.DataTextField = "hora";
+            ddlHora.DataValueField = "hora";
+            ddlHora.DataBind();
+
+            ddlHora.Items.Insert(0, new ListItem("--Seleccionar--", "0"));
+
+
+
+        }
+
+        protected void btnBuscarH_Click(object sender, EventArgs e)
+        {
+            Listar();
+        }
+
+        protected void ddlHorario_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if (ddlVeterinario.SelectedValue != null)
+            {
+               
+                ListarHora();
+            }
+            else
+            {
+
+            }
+        }
     }
 }
 

@@ -24,7 +24,7 @@ namespace Salvador_Hernandez
 
         protected void ButtonAgendar_Click(object sender, EventArgs e)
         {
-            Response.Redirect("PaginaEnConstruccion3.aspx");
+            Response.Redirect("PruebaPayPal.aspx");
         }
 
         protected void ButtonMiMascota_Click(object sender, EventArgs e)

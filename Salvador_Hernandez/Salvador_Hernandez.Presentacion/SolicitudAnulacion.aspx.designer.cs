@@ -11,7 +11,7 @@ namespace Salvador_Hernandez.Presentacion
 {
 
 
-    public partial class PruebaPayPal
+    public partial class SolicitudAnulacion
     {
 
         /// <summary>
@@ -33,49 +33,40 @@ namespace Salvador_Hernandez.Presentacion
         protected global::System.Web.UI.WebControls.TextBox txtRut;
 
         /// <summary>
-        /// Control btnBuscarH.
+        /// Control btnBuscar.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnBuscarH;
+        protected global::System.Web.UI.WebControls.Button btnBuscar;
 
         /// <summary>
-        /// Control ddlVeterinario.
+        /// Control GridView1.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList ddlVeterinario;
+        protected global::System.Web.UI.WebControls.GridView GridView1;
 
         /// <summary>
-        /// Control ddlHorario.
+        /// Control LabelOk.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList ddlHorario;
+        protected global::System.Web.UI.WebControls.Label LabelOk;
 
         /// <summary>
-        /// Control ddlHora.
+        /// Control LabelError.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList ddlHora;
-
-        /// <summary>
-        /// Control btnPago.
-        /// </summary>
-        /// <remarks>
-        /// Campo generado automáticamente.
-        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnPago;
+        protected global::System.Web.UI.WebControls.Label LabelError;
 
         /// <summary>
         /// Control HyperLink1.

@@ -136,6 +136,7 @@
     <Content Include="PaginaEnConstruccion1.aspx" />
     <Content Include="PaginaEnConstruccion2.aspx" />
     <Content Include="PaginaEnConstruccion3.aspx" />
+    <Content Include="SolicitudAnulacion.aspx" />
     <Content Include="VistaAdmin.aspx" />
     <Content Include="VistaVeterinario.aspx" />
     <Content Include="VistaCliente.aspx" />
@@ -344,6 +345,13 @@
     </Compile>
     <Compile Include="PaginaEnConstruccion3.aspx.designer.cs">
       <DependentUpon>PaginaEnConstruccion3.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SolicitudAnulacion.aspx.cs">
+      <DependentUpon>SolicitudAnulacion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SolicitudAnulacion.aspx.designer.cs">
+      <DependentUpon>SolicitudAnulacion.aspx</DependentUpon>
     </Compile>
     <Compile Include="VistaAdmin.aspx.cs">
       <DependentUpon>VistaAdmin.aspx</DependentUpon>
