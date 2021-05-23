@@ -70,6 +70,7 @@
     <Content Include="Auditoria.aspx" />
     <Content Include="AuditoriaFichas.aspx" />
     <Content Include="BusquedaInfoVet.aspx" />
+    <Content Include="Consulta Reserva.aspx" />
     <Content Include="CRUDExamen.aspx" />
     <Content Include="CRUDFarmaco.aspx" />
     <Content Include="CRUDGps.aspx" />
@@ -170,7 +171,13 @@
     <Compile Include="BusquedaInfoVet.aspx.designer.cs">
       <DependentUpon>BusquedaInfoVet.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Class1.cs" />
+    <Compile Include="Consulta Reserva.aspx.cs">
+      <DependentUpon>Consulta Reserva.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Consulta Reserva.aspx.designer.cs">
+      <DependentUpon>Consulta Reserva.aspx</DependentUpon>
+    </Compile>
     <Compile Include="CRUDExamen.aspx.cs">
       <DependentUpon>CRUDExamen.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
