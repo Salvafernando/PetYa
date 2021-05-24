@@ -61,7 +61,7 @@
                     <td>
                         &nbsp;</td>
                     <td class="auto-style4" colspan="3">
-                        <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/Menu_Reporteria.aspx">Volver</asp:HyperLink>
+                        <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/MenuAuditorias.aspx">Volver</asp:HyperLink>
                     </td>
                 </tr>
                 <tr>

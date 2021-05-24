@@ -52,7 +52,7 @@
                         <asp:Button ID="ButtonAgendar" runat="server" Height="30px" Text="Agendar Hora" Width="150px" OnClick="ButtonAgendar_Click" />
                     </td>
                     <td class="auto-style13">
-                        <asp:Button ID="btnReserva" runat="server" Height="32px" Text="Consulta Reserva" Width="119px" OnClick="btnReserva_Click" />
+                        <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
                     </td>
                 </tr>
                 <tr>

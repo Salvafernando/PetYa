@@ -22,3 +22,8 @@ C:\Users\Salvador\Source\Repos\PetYa\Salvador_Hernandez\Salvador_Hernandez.Entit
 C:\Users\Salvador\Source\Repos\PetYa\Salvador_Hernandez\Salvador_Hernandez.Entity\obj\Debug\Salvador_Hernandez.Entity.csproj.CoreCompileInputs.cache
 C:\Users\Salvador\Source\Repos\PetYa\Salvador_Hernandez\Salvador_Hernandez.Entity\obj\Debug\Salvador_Hernandez.Entity.dll
 C:\Users\Salvador\Source\Repos\PetYa\Salvador_Hernandez\Salvador_Hernandez.Entity\obj\Debug\Salvador_Hernandez.Entity.pdb
+C:\Users\Diego\Source\Repos\Salvafernando\PetYa\Salvador_Hernandez\Salvador_Hernandez.Entity\bin\Debug\Salvador_Hernandez.Entity.dll
+C:\Users\Diego\Source\Repos\Salvafernando\PetYa\Salvador_Hernandez\Salvador_Hernandez.Entity\bin\Debug\Salvador_Hernandez.Entity.pdb
+C:\Users\Diego\Source\Repos\Salvafernando\PetYa\Salvador_Hernandez\Salvador_Hernandez.Entity\obj\Debug\Salvador_Hernandez.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Source\Repos\Salvafernando\PetYa\Salvador_Hernandez\Salvador_Hernandez.Entity\obj\Debug\Salvador_Hernandez.Entity.dll
+C:\Users\Diego\Source\Repos\Salvafernando\PetYa\Salvador_Hernandez\Salvador_Hernandez.Entity\obj\Debug\Salvador_Hernandez.Entity.pdb

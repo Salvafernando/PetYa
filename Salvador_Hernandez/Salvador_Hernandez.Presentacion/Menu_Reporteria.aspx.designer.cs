@@ -60,13 +60,22 @@ namespace Salvador_Hernandez.Presentacion
         protected global::System.Web.UI.WebControls.Button btnMascotas;
 
         /// <summary>
-        /// Control btnTrabajadores.
+        /// Control btnExamenes.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnTrabajadores;
+        protected global::System.Web.UI.WebControls.Button btnExamenes;
+
+        /// <summary>
+        /// Control btnFarmacos.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btnFarmacos;
 
         /// <summary>
         /// Control BtnAuditoria.
@@ -76,15 +85,6 @@ namespace Salvador_Hernandez.Presentacion
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button BtnAuditoria;
-
-        /// <summary>
-        /// Control BtnFichas.
-        /// </summary>
-        /// <remarks>
-        /// Campo generado automáticamente.
-        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Button BtnFichas;
 
         /// <summary>
         /// Control HyperLink1.

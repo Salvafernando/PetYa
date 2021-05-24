@@ -35,9 +35,6 @@ namespace Salvador_Hernandez.Presentacion
             }
 
         }
-
-
-
         protected void btnUsuarios_Click(object sender, EventArgs e)
 
         {
@@ -45,12 +42,6 @@ namespace Salvador_Hernandez.Presentacion
             Response.Redirect("ListarUsuarios.aspx");
 
         }
-
-
-
-
-
-
 
         protected void btnMascotas_Click(object sender, EventArgs e)
 
@@ -60,36 +51,23 @@ namespace Salvador_Hernandez.Presentacion
 
         }
 
-
-
-
-
-
-
-        protected void btnTrabajadores_Click(object sender, EventArgs e)
-
-        {
-
-            Response.Redirect("ListarTrabajadores.aspx");
-
-        }
-
         protected void btnAuditorias_Click(object sender, EventArgs e)
 
         {
 
-            Response.Redirect("Auditoria.aspx");
+            Response.Redirect("MenuAuditorias.aspx");
 
         }
 
-        protected void BtnAuditoriaFichas_Click(object sender, EventArgs e)
-
+        protected void btnExamenes_Click(object sender, EventArgs e)
         {
-
-            Response.Redirect("AuditoriaFichas.aspx");
-
+            Response.Redirect("ExamenAplicado.aspx"); 
         }
 
+        protected void btnFarmacos_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("FarmacoAplicado.aspx");
+        }
     }
 
 }

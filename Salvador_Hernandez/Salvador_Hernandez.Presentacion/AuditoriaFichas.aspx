@@ -58,14 +58,16 @@
                         <asp:Label ID="LabelOk" runat="server" ForeColor="#3333FF"></asp:Label>
                         <asp:Label ID="LabelError" runat="server" ForeColor="Red"></asp:Label>
                     </td>
+                      
                     <td>
+                        
                         &nbsp;</td>
-                    <td class="auto-style4" colspan="3">
-                        <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/Menu_Reporteria.aspx">Volver</asp:HyperLink>
-                    </td>
+
+                      
                 </tr>
                 <tr>
                     <td class="auto-style4" colspan="3">
+                        <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/MenuAuditorias.aspx">Volver</asp:HyperLink>
                         &nbsp;</td>
                 </tr>
                 <tr>

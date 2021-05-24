@@ -68,9 +68,14 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Auditoria.aspx" />
+    <Content Include="AuditoriaExamen.aspx" />
+    <Content Include="AuditoriaFarmaco.aspx" />
     <Content Include="AuditoriaFichas.aspx" />
+    <Content Include="AuditoriaGps.aspx" />
+    <Content Include="AuditoriaInsumo.aspx" />
+    <Content Include="AuditoriaPatologia.aspx" />
+    <Content Include="AuditoriaReserva.aspx" />
     <Content Include="BusquedaInfoVet.aspx" />
-    <Content Include="Consulta Reserva.aspx" />
     <Content Include="CRUDExamen.aspx" />
     <Content Include="CRUDFarmaco.aspx" />
     <Content Include="CRUDGps.aspx" />
@@ -86,6 +91,8 @@
     <Content Include="css\jquery.min.js" />
     <Content Include="css\magnific-popup.css" />
     <Content Include="css\style.css" />
+    <Content Include="ExamenAplicado.aspx" />
+    <Content Include="FarmacoAplicado.aspx" />
     <Content Include="FichaMascota.aspx" />
     <Content Include="FichaMascotaVet.aspx" />
     <Content Include="images\arrow.png" />
@@ -148,6 +155,8 @@
     <Content Include="Login.aspx" />
     <Content Include="Web.config" />
     <Content Include="AtencionMascota.aspx" />
+    <Content Include="MenuAuditorias.aspx" />
+    <Content Include="AuditoriaVacuna.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Auditoria.aspx.cs">
@@ -157,12 +166,54 @@
     <Compile Include="Auditoria.aspx.designer.cs">
       <DependentUpon>Auditoria.aspx</DependentUpon>
     </Compile>
+    <Compile Include="AuditoriaExamen.aspx.cs">
+      <DependentUpon>AuditoriaExamen.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AuditoriaExamen.aspx.designer.cs">
+      <DependentUpon>AuditoriaExamen.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AuditoriaFarmaco.aspx.cs">
+      <DependentUpon>AuditoriaFarmaco.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AuditoriaFarmaco.aspx.designer.cs">
+      <DependentUpon>AuditoriaFarmaco.aspx</DependentUpon>
+    </Compile>
     <Compile Include="AuditoriaFichas.aspx.cs">
       <DependentUpon>AuditoriaFichas.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="AuditoriaFichas.aspx.designer.cs">
       <DependentUpon>AuditoriaFichas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AuditoriaGps.aspx.cs">
+      <DependentUpon>AuditoriaGps.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AuditoriaGps.aspx.designer.cs">
+      <DependentUpon>AuditoriaGps.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AuditoriaInsumo.aspx.cs">
+      <DependentUpon>AuditoriaInsumo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AuditoriaInsumo.aspx.designer.cs">
+      <DependentUpon>AuditoriaInsumo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AuditoriaPatologia.aspx.cs">
+      <DependentUpon>AuditoriaPatologia.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AuditoriaPatologia.aspx.designer.cs">
+      <DependentUpon>AuditoriaPatologia.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AuditoriaReserva.aspx.cs">
+      <DependentUpon>AuditoriaReserva.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AuditoriaReserva.aspx.designer.cs">
+      <DependentUpon>AuditoriaReserva.aspx</DependentUpon>
     </Compile>
     <Compile Include="BusquedaInfoVet.aspx.cs">
       <DependentUpon>BusquedaInfoVet.aspx</DependentUpon>
@@ -171,13 +222,7 @@
     <Compile Include="BusquedaInfoVet.aspx.designer.cs">
       <DependentUpon>BusquedaInfoVet.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Consulta Reserva.aspx.cs">
-      <DependentUpon>Consulta Reserva.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Consulta Reserva.aspx.designer.cs">
-      <DependentUpon>Consulta Reserva.aspx</DependentUpon>
-    </Compile>
+    <Compile Include="Class1.cs" />
     <Compile Include="CRUDExamen.aspx.cs">
       <DependentUpon>CRUDExamen.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -219,6 +264,20 @@
     </Compile>
     <Compile Include="CRUDVacuna.aspx.designer.cs">
       <DependentUpon>CRUDVacuna.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ExamenAplicado.aspx.cs">
+      <DependentUpon>ExamenAplicado.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ExamenAplicado.aspx.designer.cs">
+      <DependentUpon>ExamenAplicado.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FarmacoAplicado.aspx.cs">
+      <DependentUpon>FarmacoAplicado.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FarmacoAplicado.aspx.designer.cs">
+      <DependentUpon>FarmacoAplicado.aspx</DependentUpon>
     </Compile>
     <Compile Include="FichaMascota.aspx.cs">
       <DependentUpon>FichaMascota.aspx</DependentUpon>
@@ -423,6 +482,20 @@
     </Compile>
     <Compile Include="AtencionMascota.aspx.designer.cs">
       <DependentUpon>AtencionMascota.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MenuAuditorias.aspx.cs">
+      <DependentUpon>MenuAuditorias.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MenuAuditorias.aspx.designer.cs">
+      <DependentUpon>MenuAuditorias.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AuditoriaVacuna.aspx.cs">
+      <DependentUpon>AuditoriaVacuna.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AuditoriaVacuna.aspx.designer.cs">
+      <DependentUpon>AuditoriaVacuna.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

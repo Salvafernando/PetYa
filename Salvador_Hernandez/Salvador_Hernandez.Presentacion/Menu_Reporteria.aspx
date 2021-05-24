@@ -23,10 +23,14 @@
         <div>
             <asp:Button ID="btnUsuarios" runat="server" Text="Lista Usuarios" OnClick="btnUsuarios_Click" />
             <asp:Button ID="btnMascotas" runat="server" Text="Lista Mascotas" OnClick="btnMascotas_Click" />
-            <asp:Button ID="btnTrabajadores" runat="server" Text="Lista Trabajadores"  OnClick="btnTrabajadores_Click"/>
-            <asp:Button ID="BtnAuditoria" runat="server" Text="Auditoria Usuarios" OnClick="btnAuditorias_Click" />
-            <asp:Button ID="BtnFichas" runat="server" Text="Auditoria Fichas medicas" OnClick="BtnAuditoriaFichas_Click" />
+            <br />
+            <asp:Button ID="btnExamenes" runat="server" Text="Lista Examenes Aplicados"  OnClick="btnExamenes_Click"/>
+            <asp:Button ID="btnFarmacos" runat="server" Text="Lista Farmacos Aplicados"  OnClick="btnFarmacos_Click"/>
+            
         </div>
+                </td>
+                <td>
+                    <asp:Button ID="BtnAuditoria" runat="server" Text="Auditorias" OnClick="btnAuditorias_Click" />
                 </td>
                 </tr>
             <tr>
