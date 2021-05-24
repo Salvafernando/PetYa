@@ -77,8 +77,7 @@
                     <td class="auto-style1">
                         &nbsp;</td>
                     <td class="auto-style2">
-                        <asp:Button ID="btnConfirma" runat="server" OnClick="Button1_Click" Text="Confirmar Reserva" Width="123px" />
-                    </td>
+                        &nbsp;</td>
                     <td>&nbsp;</td>
                 </tr>
                 <tr>
@@ -91,7 +90,8 @@
                 </tr>
                 <tr>
                     <td colspan="3" class="auto-style12">
-                        &nbsp;</td>
+                        <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/Inicio.aspx">Volver</asp:HyperLink>
+                    </td>
                 </tr>
                 <tr>
                     <td colspan="3" class="auto-style11">

@@ -17,9 +17,6 @@ namespace Salvador_Hernandez
         private static List<Usuario> alUsuarios = new List<Usuario>();
         private static int sw = 0;
 
-       
-
-
         public static int getSW() 
         {
             return sw;
@@ -31,7 +28,7 @@ namespace Salvador_Hernandez
         {
             Conexion con = new Conexion();
             string sCnn = con.conectar();
-            string sSel = "Select * from RUT_USUARIO";
+            string sSel = "Select * from USUARIOS";
             SqlDataAdapter da;
             DataTable dt = new DataTable();
 
@@ -42,8 +39,6 @@ namespace Salvador_Hernandez
             }
             catch (Exception e) { }
             return dt;
-
-
         }
 
         
@@ -55,7 +50,7 @@ namespace Salvador_Hernandez
                 Conexion c = new Conexion();
                 string sCnn = c.conectar();
 
-                string sSel = "Select rut_usuario from USUARIOS where RUT_USUARIO = '" + rut + "';";
+                string sSel = "Select * from USUARIOS where RUT_USUARIO = '" + rut + "';";
                 SqlDataAdapter da;
                 DataTable dt = new DataTable();
 

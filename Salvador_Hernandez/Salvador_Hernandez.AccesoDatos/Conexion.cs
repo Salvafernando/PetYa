@@ -11,7 +11,7 @@ namespace Salvador_Hernandez.AccesoDatos
        
         public string conectar()
         {
-            return "Data Source=DESKTOP-234V53Q\\SQLEXPRESS;Initial Catalog=PETYA;Integrated Security=True";
+            return "Data Source=localhost;Initial Catalog=PETYA;Integrated Security=True";
         }
     }
 }

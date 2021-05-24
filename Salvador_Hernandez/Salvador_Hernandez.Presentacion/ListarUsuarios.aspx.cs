@@ -58,26 +58,17 @@ namespace Salvador_Hernandez.Presentacion
 
             GridView1.DataBind();
 
-
-
-
-
         }
 
         protected void GridView1_SelectedIndexChanged(object sender, EventArgs e)
 
         {
-
-
-
         }
-
 
 
         protected void GridView1_rowDelete(object sender, GridViewDeleteEventArgs e)
 
         {
-
             //String Rut = GridView1.Rows[e.RowIndex].DataItem.ToString();
 
             string Rut = GridView1.Rows[e.RowIndex].Cells[1].Text;
@@ -85,11 +76,6 @@ namespace Salvador_Hernandez.Presentacion
             if (!Rut.Equals(""))
 
             {
-
-
-
-
-
                 if (UsuarioDAO.Eliminar(Rut) == true)
 
                 {
@@ -127,21 +113,11 @@ namespace Salvador_Hernandez.Presentacion
         protected void BtnBuscar_Click(object sender, EventArgs e)
 
         {
-
-            /*
-
             string Rut = txtRUT.Text;
-
-
-
-
 
             if (!Rut.Equals(""))
 
             {
-
-
-
                 DataTable dt = UsuarioDAO.Buscar(Rut);
 
                 try
@@ -152,8 +128,6 @@ namespace Salvador_Hernandez.Presentacion
 
                     {
 
-
-
                         GridView1.DataSource = dt;
 
                         GridView1.DataBind();
@@ -161,9 +135,6 @@ namespace Salvador_Hernandez.Presentacion
                         LabelOk.Text = "Usuario encontrado";
 
                         LabelError.Text = "";
-
-
-
                     }
 
                 }
@@ -171,23 +142,15 @@ namespace Salvador_Hernandez.Presentacion
                 catch (IndexOutOfRangeException)
 
                 {
-
                     LabelOk.Text = "";
-
                     LabelError.Text = "Error, usuario no existe con ese RUT";
-
                     ClientScript.RegisterStartupScript(this.GetType(), "myalert", "alert('" + "Error, rut no existe" + "');", true);
 
                 }
 
-            }*/
+            }
 
         }
-
-
-
-
-
     }
 
 }

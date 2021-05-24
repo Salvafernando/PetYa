@@ -31,10 +31,5 @@ namespace Salvador_Hernandez
         {
             Response.Redirect("FichaMascota.aspx");
         }
-
-        protected void btnReserva_Click(object sender, EventArgs e)
-        {
-            Response.Redirect("Consulta Reserva.aspx");
-        }
     }
 }

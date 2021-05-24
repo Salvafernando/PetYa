@@ -7,7 +7,6 @@ using System.Web.UI.WebControls;
 using System.Data;
 using System.Data.SqlClient;
 using Salvador_Hernandez.AccesoDatos;
-using Salvador_Hernandez.Entity;
 
 namespace Salvador_Hernandez.Presentacion
 {
@@ -20,16 +19,10 @@ namespace Salvador_Hernandez.Presentacion
         string order_no;
         protected void Page_Load(object sender, EventArgs e)
         {
-           
-
-
             Usuario user = (Usuario)Session["Usuario"];
             
         
             txtRut.Text = user.Rut;
-
-
-
         } 
 
         protected void Button1_Click(object sender, EventArgs e)
@@ -66,11 +59,8 @@ namespace Salvador_Hernandez.Presentacion
                 Response.Write("</form");
 
                 Response.Write("<script type='text/javascript'>");
-            //    Response.Write("document.getElementById('buyCredits').submit();");
+                Response.Write("document.getElementById('buyCredits').submit();");
                 Response.Write("</script>");
-
-                Reserva reserva = new Reserva(ddlHorario.Text.ToString(),ddlHora.Text.ToString(),ddlVeterinario.Text.ToString());
-                Session["Reserva"] = reserva;
             }
         }
 
